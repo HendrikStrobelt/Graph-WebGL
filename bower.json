@@ -1,0 +1,27 @@
+{
+  "name": "WebPageStarter",
+  "version": "0.0.1",
+  "homepage": "https://github.com/HendrikStrobelt/WebPageStarter",
+  "authors": [
+    "Hendrik Strobelt <hendrik@strobelt.com>"
+  ],
+  "description": "Starter Template for simple Webpage",
+  "main": "index.html",
+  "moduleType": [
+    "amd"
+  ],
+  "license": "GPL",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "d3": "~3.5.6",
+    "underscore": "~1.8.3",
+    "bootswatch": "~3.3.5+2"
+  }
+}
