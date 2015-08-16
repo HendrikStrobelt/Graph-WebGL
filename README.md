@@ -1,8 +1,7 @@
-# WebPageStarter
+# Graph WebGL Test
 
-a fast client side page to start with bootstrap and favorite libraries
+a simple WebGL test rendering a lot of edges
 
-- d3
-- jQuery
-- underscore
-- ..
+- clone
+- `bower install`
+- untar the file in `/data`
