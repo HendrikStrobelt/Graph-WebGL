@@ -22,6 +22,8 @@
     "bootstrap": "~3.3",
     "d3": "~3",
     "underscore": "~1.8",
-    "bootswatch": "~3.3"
+    "bootswatch": "~3.3",
+    "sylvester": "~0.1",
+    "glUtils": "~0.0"
   }
 }
